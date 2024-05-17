@@ -1,0 +1,3 @@
+C:/Users/teole/CLionProjects/HttpReqParser/cmake-build-debug/CMakeFiles/HttpReqParser.dir
+C:/Users/teole/CLionProjects/HttpReqParser/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/teole/CLionProjects/HttpReqParser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
